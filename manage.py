@@ -3,6 +3,7 @@
 import os
 import sys
 
+print("Hello world")
 
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'OnlineGymManagement.settings')
